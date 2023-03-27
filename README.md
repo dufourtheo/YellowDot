@@ -2,7 +2,7 @@
 ## _Stegano Tool, 
 
 
-Permet de récuperer les points sur un fichier et de calculer . 
+Permet de récuperer les points sur une image (.png,.jpg,etc...) et de calculer . 
 
 - ✨Code en Python
 
