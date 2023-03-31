@@ -12,7 +12,7 @@ Permet de récuperer les points sur un fichier et de calculer .
 
 ## Installation
 
-Pytohn required [python](https://www.python.org/) .
+Python required [python](https://www.python.org/) .
 
 Installez la dépendance dans le fichier lib.txt
 
