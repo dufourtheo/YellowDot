@@ -24,9 +24,12 @@ Installation de la dépendance Python Imaging Library dans le fichier : lib.txt
 
 ```sh
 pip install -r lib.txt
-
-Sinon pip install Pillow 
 ```
+Sinon 
+```sh
+pip install Pillow
+```
+
 Pour la suite cet image va beaucoup nous aide pour le calcul : 
 
 On va donc pouvoir recupérer les arguments suivants :
