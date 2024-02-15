@@ -34,12 +34,12 @@ Pour la suite cet image va beaucoup nous aide pour le calcul :
 
 On va donc pouvoir recupérer les arguments suivants :
 
-heure : l’heure de l’événement
-minutes : les minutes de l’événement
-day : le jour de l’événement
-month : le mois de l’événement
-year: l’année de l’événement
-serial : le numéro de série
+- heure : l’heure de l’événement
+- minutes : les minutes de l’événement
+- day : le jour de l’événement
+- month : le mois de l’événement
+- year: l’année de l’événement
+- serial : le numéro de série
 
 ![photo](https://w2.eff.org/Privacy/printers/docucolor/guide.png "Titre de l'image").
 
